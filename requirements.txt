@@ -9,7 +9,7 @@ future==0.16.0
 greenlet==0.4.12
 idna==2.6
 jsondatabase==0.1.7
-nltk==3.2.4
+nltk==3.4.5
 oauthlib==2.0.3
 PyAudio==0.2.11
 Pygments==2.2.0
