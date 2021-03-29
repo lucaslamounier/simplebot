@@ -12,7 +12,7 @@ jsondatabase==0.1.7
 nltk==3.2.4
 oauthlib==2.0.3
 PyAudio==0.2.11
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.5.1
 pypiwin32==220
 python-dateutil==2.6.1
